@@ -1,0 +1,24 @@
+{
+  "name": "express-api-template",
+  "version": "1.0.0",
+  "description": "Express API Template project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/counterflow/express-api-template.git"
+  },
+  "keywords": [
+    "Express",
+    "REST",
+    "API"
+  ],
+  "author": "Ian F",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/counterflow/express-api-template/issues"
+  },
+  "homepage": "https://github.com/counterflow/express-api-template#readme"
+}
